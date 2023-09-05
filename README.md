@@ -17,6 +17,12 @@ Projeto de teste de performance com jMeter
 
 ## Instruções para a execução do script
 
+- Instalar o jMeter 5.6.2+.
+
 ## Relatório de execução dos testes
 
+- Instalar o jMeter 5.6.2+.
+
 ## Demais considerações pertinentes ao teste
+
+- Instalar o jMeter 5.6.2+.
