@@ -1,5 +1,10 @@
 # automacao-brazedemo-jmeter-web
-Projeto de teste de performance com jMeter
+
+Scripts de automação web para compras online desenvolvido com Java e jMeter.
+
+# URL
+
+https://www.blazedemo.com
 
 ## Cenário de Teste
 
@@ -17,11 +22,14 @@ Projeto de teste de performance com jMeter
 
 ## Instruções para a execução do script
 
-- Instalar o jMeter 5.6.2+.
+- Abrir o jMeter
+- Clique em Arquivo > Abrir
+- Vá até o diretorio onde salvou o projeto e clique no arquivo blaze-demo.jmx
 
 ## Relatório de execução dos testes
 
-- Instalar o jMeter 5.6.2+.
+- Em Variáveis Definidas Pelo Usuário, não esqueça de colocar o diretorio onde deseja salvar o relatorio de testes na variavel dirRelatorio.
+- Para visualizar o relatorio, deve ter instalado do Microsoft Office 2007+ ou o Libre Office 7+.
 
 ## Demais considerações pertinentes ao teste
 
