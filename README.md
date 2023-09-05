@@ -33,3 +33,5 @@ https://www.blazedemo.com
 - Para visualizar o relatorio, deve ter instalado o Microsoft Office 2007+ ou o Libre Office 7+.
 
 ## Demais considerações pertinentes ao teste
+ - Confira dentro da pasta Relatorio de teste o arquivo de texto analise_do_resultado com a Ánalise e Considerações satisfatórias ocorridas durante o teste com jMeter.
+ 

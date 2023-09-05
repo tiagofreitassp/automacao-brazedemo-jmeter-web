@@ -1,0 +1,13 @@
+## Cenário de Teste
+
+* Compra de passagem aérea - Passagem comprada com sucesso.
+
+## Critério de Aceitação:
+
+* 250 requisições por segundo com um tempo de resposta 90th percentil inferior a 2 segundos.
+
+## Analise do resultado.
+
+* O tempo total de execução simulando 250 requisições levou 25 milisegundos em uma conexão de internet de 350mb. 
+* O resultado é satisfatorio, pois cada requisição no fluxo de compra nao levou mais de 1 segundos, conforme esperado no Critério de Aceite.
+* tempo mais do que o suficiente.
