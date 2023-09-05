@@ -16,9 +16,10 @@ https://www.blazedemo.com
 
 ## Requisitos
 
-- Instalar o jMeter 5.6.2+.
-- Computador com Windows 10+, Linux e Mac OS X.
+- Instalar o jMeter 5+.
+- Computador com Windows 10+ ou Mac OS X.
 - Java JDK 8+.
+- Conexão com a internet via cabo ou sem fio de no minimo 8mb.
 
 ## Instruções para a execução do script
 
@@ -29,8 +30,6 @@ https://www.blazedemo.com
 ## Relatório de execução dos testes
 
 - Em Variáveis Definidas Pelo Usuário, não esqueça de colocar o diretorio onde deseja salvar o relatorio de testes na variavel dirRelatorio.
-- Para visualizar o relatorio, deve ter instalado do Microsoft Office 2007+ ou o Libre Office 7+.
+- Para visualizar o relatorio, deve ter instalado o Microsoft Office 2007+ ou o Libre Office 7+.
 
 ## Demais considerações pertinentes ao teste
-
-- Instalar o jMeter 5.6.2+.
