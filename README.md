@@ -2,7 +2,7 @@
 
 Scripts de automação web para compras online desenvolvido com Java e jMeter.
 
-# URL
+# Url
 
 https://www.blazedemo.com
 
@@ -34,4 +34,3 @@ https://www.blazedemo.com
 
 ## Demais considerações pertinentes ao teste
  - Confira dentro da pasta Relatorio de teste o arquivo de texto analise_do_resultado com a Ánalise e Considerações satisfatórias ocorridas durante o teste com jMeter.
- 
